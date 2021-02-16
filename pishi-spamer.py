@@ -1,49 +1,3 @@
-
-Skip to content
-
-    Why GitHub?
-                          
-
-
-                    
-Team
-Enterprise
-Explore
-                      
-
-                    
-Marketplace
-Pricing
-                       
-
-
-                        
-
-Sign in
-Sign up
-
-
-41
-136
-
-    88
-
-Code
-Issues 14
-Pull requests 4
-Actions
-Projects
-Security
-
-    Insights
-
-007spam-BOT/bot.py /
-@mrwn007
-mrwn007 Add files via upload
-Latest commit e061e2c on Jan 27, 2020
-History
-1 contributor
-139 lines (114 sloc) 3.9 KB
 # coding=utf-8
 #!/usr/bin/env python3
 
@@ -55,9 +9,9 @@ https://tr.wikipedia.org/wiki/gnu_genel_kamu_lisans%c4%b1
 https://www.gnu.org/licenses/quick-guide-gplv3.html
 """
 
-__author__ = ""
-__license__ = ""
-__version__ = "1.1"
+__author__ = "Marwan 007 : @mrwn.007"
+__license__ = "GPLv3"
+__version__ = "0.1"
 __status__ = "being developed"
 
 
@@ -184,17 +138,4 @@ if __name__ == "__main__":
 
     
 
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
